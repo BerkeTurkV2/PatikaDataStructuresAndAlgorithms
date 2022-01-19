@@ -27,8 +27,4 @@
 - 3'ün Sağından Child Node = 4,
 - 3'ün Solundan Child Node = 2
 
-*             7
-          5       8
-       1     6       9
-    0     3
-       2     4
+![img](C:\Users\berke\Desktop\Projects\1.PNG)
