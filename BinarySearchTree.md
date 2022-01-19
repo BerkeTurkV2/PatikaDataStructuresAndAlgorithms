@@ -27,4 +27,4 @@
 - 3'ün Sağından Child Node = 4,
 - 3'ün Solundan Child Node = 2
 
-![img](C:\Users\berke\Desktop\Projects\1.PNG)
+![img](https://github.com/BerkeTurkV2/PatikaDataStructuresAndAlgorithms/blob/main/images/1.PNG)
